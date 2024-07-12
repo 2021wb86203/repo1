@@ -1,0 +1,41 @@
+body, h2, p, ul {
+    margin: 0;
+    padding: 0;
+}
+h1{
+    margin: 0;
+    padding: 0;
+    size: 14;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+}
+
+header {
+    background-color: #4169E1;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.profile {
+    text-align: center;
+    padding: 30px;
+}
+
+img {
+    max-width: 225px;
+    border-radius: 50%;
+}
+
+.qualifications, .certifications, .experience {
+    background-color: #fff;
+    padding: 20px;
+    margin: 20px 0;
+}
+
+@media (max-width: 600px) {
+
+}
